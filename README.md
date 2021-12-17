@@ -1,6 +1,4 @@
-# Programming-1_Summative-Assignment_Week-13_2021
-
-# Discrete Maths Assignment
+# Discrete Maths Summative Assignment
 #### Graph and Euler circuits, December 17 2021
 #### By Group 12
 * Ghea Sandrine Mawen
